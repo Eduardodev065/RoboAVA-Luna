@@ -1,0 +1,13 @@
+ROBOAVA LUNA - COMO USAR
+
+1. Extraia todos os arquivos do ZIP para uma pasta do computador.
+2. Mantenha RoboAVA-Luna.exe, RoboAVA-Worker.exe e _internal juntos.
+3. Execute Configurar-chave.cmd e informe sua propria chave da API OpenAI.
+   A chave fica nas variaveis de usuario do Windows, fora desta pasta.
+4. Execute RoboAVA-Luna.exe.
+5. Informe seu RA e sua senha da faculdade. Conclua o login no navegador.
+6. Na janela de controle, clique em Iniciar bot. Use Pausar/Retomar ou
+   Encerrar bot quando precisar.
+
+O pacote nao inclui dados de login, perfis, relatorios nem chave de API.
+O navegador e o portal precisam de conexao com a internet.
